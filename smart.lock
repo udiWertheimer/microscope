@@ -9,7 +9,8 @@
       "router": {},
       "accounts-ui-bootstrap-dropdown": {},
       "spin": {},
-      "errors": {}
+      "errors": {},
+      "paginated-subscription": {}
     },
     "packages": {
       "router": {
@@ -31,6 +32,11 @@
         "git": "https://github.com/tmeasday/meteor-errors.git",
         "tag": "v0.1.0",
         "commit": "b91859cd98d69f5b294d7d7a2724427872103da8"
+      },
+      "paginated-subscription": {
+        "git": "https://github.com/tmeasday/meteor-paginated-subscription.git",
+        "tag": "v0.1.1",
+        "commit": "1ba670364ddac149f404158407b2afc89db42ce5"
       },
       "page-js-ie-support": {
         "git": "https://github.com/tmeasday/meteor-page-js-ie-support.git",
